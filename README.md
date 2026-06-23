@@ -46,7 +46,7 @@ sample size, per-patch enable/disable, and the *direct* / *no clip* sampling mod
 
 ### Tips
 
-* Works best on **linear / unprocessed** footage, like the original.
+* Works best on **linear** footage, like the original.
 * The matrix is a pure 3×3 (no offset/white-balance-only constraint), so it both
   neutralizes and roughly matches exposure across channels.
 * "Sample Size" and corner positions are in image pixels and are render-scale
