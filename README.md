@@ -1,7 +1,13 @@
 # mmColorTarget — OpenFX (OFX) port
 
 An OpenFX port of Marco Meyer's **mmColorTarget** Nuke gizmo, for use in
-**DaVinci Resolve** (Studio) and other OFX hosts (Natron, Fusion, Vegas, Nuke, …).
+**DaVinci Resolve** (Studio) and probably also other OFX hosts (Natron, Fusion, Vegas, Nuke,…) – haven't tested this yet though.
+
+ALSO THE WINDOWS INSTALLER ISN'T TESTED. PLEASE REPORT BACK IF IT DOESN'T WORK.
+
+Check out my website (https://www.demystify-color.com) if you want to learn more about all things Colorgrading, Film Profiling & Color Science!
+Or if you just like this port, please consider supporting me: https://buymeacoffee.com/nicofink ☕
+
 
 It matches the colors of an image to a **MacBeth ColorChecker** reference by
 sampling the 24 patches and solving a least-squares **3×3 color matrix**, exactly
